@@ -1,0 +1,6 @@
+<svg viewBox="0 0 120 80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="80" fill="#fff8e7" rx="8" stroke="#f0c69a" stroke-width="2"/>
+  <text x="60" y="35" text-anchor="middle" font-size="28" fill="#ffc72f">🐦</text>
+  <text x="60" y="55" text-anchor="middle" font-size="10" fill="#765846" font-weight="bold">收藏卡</text>
+  <text x="60" y="68" text-anchor="middle" font-size="8" fill="#aaa">NO.001</text>
+</svg>

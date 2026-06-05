@@ -1,0 +1,6 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="#e8f4fd" rx="20"/>
+  <text x="100" y="80" text-anchor="middle" font-size="60" fill="#5b9bd5">🐦</text>
+  <text x="100" y="130" text-anchor="middle" font-size="14" fill="#5b9bd5" font-weight="bold">下班冲刺叽啾</text>
+  <text x="100" y="150" text-anchor="middle" font-size="12" fill="#888">NO.002</text>
+</svg>

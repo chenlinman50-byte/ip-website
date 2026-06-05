@@ -1,0 +1,46 @@
+<svg viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg1" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#f0f6fc"/>
+      <stop offset="100%" stop-color="#e0ecf6"/>
+    </radialGradient>
+  </defs>
+  <!-- Background -->
+  <circle cx="80" cy="70" r="55" fill="url(#bg1)"/>
+  <!-- Bird body -->
+  <ellipse cx="80" cy="85" rx="35" ry="40" fill="#f5f0e8" stroke="#d4b896" stroke-width="1.5"/>
+  <!-- Bird head -->
+  <circle cx="80" cy="55" r="28" fill="#f5f0e8" stroke="#d4b896" stroke-width="1.5"/>
+  <!-- Eyes -->
+  <ellipse cx="70" cy="50" rx="8" ry="9" fill="#fff"/>
+  <circle cx="70" cy="51" r="4" fill="#4a2e1f"/>
+  <circle cx="72" cy="49" r="1.5" fill="#fff"/>
+  <ellipse cx="90" cy="50" rx="8" ry="9" fill="#fff"/>
+  <circle cx="90" cy="51" r="4" fill="#4a2e1f"/>
+  <circle cx="92" cy="49" r="1.5" fill="#fff"/>
+  <!-- Glasses -->
+  <circle cx="70" cy="51" r="10" fill="none" stroke="#5b9bd5" stroke-width="2.5"/>
+  <circle cx="90" cy="51" r="10" fill="none" stroke="#5b9bd5" stroke-width="2.5"/>
+  <line x1="80" y1="51" x2="80" y2="51" stroke="#5b9bd5" stroke-width="2.5"/>
+  <!-- Glasses decoration -->
+  <circle cx="90" cy="55" r="2" fill="#ffd700"/>
+  <line x1="90" y1="57" x2="90" y2="65" stroke="#ffd700" stroke-width="1.5"/>
+  <!-- Beak -->
+  <path d="M76 58 L80 64 L84 58 Z" fill="#ffd700"/>
+  <!-- Blush -->
+  <circle cx="62" cy="58" r="5" fill="#ffb5a5" opacity="0.5"/>
+  <circle cx="98" cy="58" r="5" fill="#ffb5a5" opacity="0.5"/>
+  <!-- Book -->
+  <rect x="55" y="95" width="50" height="35" rx="3" fill="#5b9bd5" stroke="#4a8bc2" stroke-width="1"/>
+  <path d="M80 95 L80 130" fill="none" stroke="#4a8bc2" stroke-width="1"/>
+  <line x1="60" y1="102" x2="75" y2="102" stroke="#fff" stroke-width="1" opacity="0.6"/>
+  <line x1="60" y1="108" x2="75" y2="108" stroke="#fff" stroke-width="1" opacity="0.6"/>
+  <line x1="60" y1="114" x2="75" y2="114" stroke="#fff" stroke-width="1" opacity="0.6"/>
+  <line x1="85" y1="102" x2="100" y2="102" stroke="#fff" stroke-width="1" opacity="0.6"/>
+  <line x1="85" y1="108" x2="100" y2="108" stroke="#fff" stroke-width="1" opacity="0.6"/>
+  <line x1="85" y1="114" x2="100" y2="114" stroke="#fff" stroke-width="1" opacity="0.6"/>
+  <!-- Lamp -->
+  <rect x="118" y="60" width="4" height="50" fill="#d4b896"/>
+  <ellipse cx="120" cy="60" rx="14" ry="6" fill="#ffe076" stroke="#d4a574" stroke-width="1"/>
+  <ellipse cx="120" cy="110" rx="10" ry="4" fill="#d4b896"/>
+</svg>

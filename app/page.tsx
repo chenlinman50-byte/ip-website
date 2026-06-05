@@ -102,7 +102,7 @@ export default function Home() {
             <BirdMark />
             <span>
               <strong>叽啾</strong>
-              <small>PENG AO</small>
+              <small>JI JIU</small>
             </span>
           </a>
 
@@ -153,7 +153,7 @@ export default function Home() {
             <article className={`info-card ${card.tint}`} key={card.title}>
               <div className="tag">{card.title}</div>
               <p>{card.text}</p>
-              <a className="card-arrow" href="#" aria-label={`进入${card.title}`}>›</a>
+              <a className="card-arrow" href={card.title === "周边产品" ? "/merch" : "#"} aria-label={`进入${card.title}`}>›</a>
               <Image
                 className="card-bird-img"
                 src={card.image}
